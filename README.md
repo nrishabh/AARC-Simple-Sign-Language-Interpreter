@@ -26,7 +26,7 @@ Alternatively, you can use the following command to install them:
 
 The cosine vectors of all the features extracted get stored in a file called "features.pck". 
 
-This repo contains a "features.pck" file already, which has been trained on the files in the "Data" folder. If you would like to use the existing dataset, skip to [Predicting Character](#predicting-characters).
+This repo contains a "features.pck" file already, which has been trained on the files in the "Data" folder. If you would like to use the existing dataset, skip to [Predicting Characters](#predicting-characters).
 
 If you would like to train the dataset yourself, place your image files in the "Data" folder (with the filename same as the label name).
 
@@ -84,7 +84,7 @@ The program uses Canny Edge Detection by default.
 
 ### References
 
-1. [Background Subtraction Techniques](#https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_video/py_bg_subtraction/py_bg_subtraction.html)
+1. [Background Subtraction Techniques](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_video/py_bg_subtraction/py_bg_subtraction.html)
 
 ## Contributors
 
