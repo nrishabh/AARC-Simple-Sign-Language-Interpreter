@@ -101,6 +101,12 @@ This project was built by
 
  ### Screenshots
 
+![Various stages of Image Processing for the ASL gesture "B"](/Screenshots/B.png)
+
+![Various stages of Image Processing for the ASL gesture "Y"](/Screenshots/Y.png)
+
+![Our application in working](/Screenshots/GUI.png)
+
 
 
  ## Future Scope
