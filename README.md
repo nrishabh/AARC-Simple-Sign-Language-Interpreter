@@ -97,6 +97,8 @@ This project was built by
 
  as a mini project, part of our course Image Processing. We included a user-friendly GUI that allowed multiple registered users private access, fed input as the user's webcam video stream and saved the predicted characters into a log file.
 
+ The name AARC comprises of the first letter of each contributor.
+
  We also tried improving our dataset by including multiple images of the same label under different lighting conditions and used neural networks to better predict the input image.
 
  ### Screenshots
