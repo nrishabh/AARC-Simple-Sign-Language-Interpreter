@@ -113,13 +113,6 @@ Various stages of Image Processing for the ASL gesture "Y"
 
  ## Future Scope
 
- This project is aimed at novice developers, trying to figure out their way around OpenCV and image matching. 
+ We are currently novice developers in the field of Computer Vision, trying to figure out their way around OpenCV and image matching. 
 
- It can be improved upon to have multiple images under different lighting conditions for the same character, support for more characters and a better prediction algorithms (perhaps using machine learning, deep learning techniques).
-
- 
-
-
-
-
-
+ It can be improved upon to have multiple images under different lighting conditions for the same character, support for more characters and a better prediction algorithms (perhaps using better image processing and deep learning techniques).
