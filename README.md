@@ -99,8 +99,6 @@ This project was built by
 
  The name AARC comprises of the first letter of each contributor.
 
- We also tried improving our dataset by including multiple images of the same label under different lighting conditions and used neural networks to better predict the input image.
-
  ### Screenshots
 
 Various stages of Image Processing for the ASL gesture "B"
